@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vedanshi Vajpayee
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Software Development & serving one organisation.
 - 🌱 I’m currently learning and growing.
 - 💞️ I’m looking to contribute on GitHub. Stay connected! :)
 - 📫 How to reach me ...
